@@ -1,0 +1,42 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bromasGold" x1="70" y1="42" x2="442" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9D989"/>
+      <stop offset="1" stop-color="#A66F16"/>
+    </linearGradient>
+    <linearGradient id="bromasNavy" x1="256" y1="44" x2="256" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11254E"/>
+      <stop offset="1" stop-color="#0A1736"/>
+    </linearGradient>
+    <linearGradient id="bromasGreen" x1="150" y1="150" x2="362" y2="356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C7C58"/>
+      <stop offset="1" stop-color="#15503B"/>
+    </linearGradient>
+    <linearGradient id="bromasPurple" x1="286" y1="140" x2="404" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A2FA3"/>
+      <stop offset="1" stop-color="#51206D"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="214" fill="url(#bromasNavy)" stroke="url(#bromasGold)" stroke-width="12"/>
+  <circle cx="256" cy="256" r="186" stroke="url(#bromasGold)" stroke-width="6"/>
+  <path d="M256 98C301 129 361 131 394 160V314C394 377 335 424 256 447C177 424 118 377 118 314V160C151 131 211 129 256 98Z" fill="#102447" stroke="url(#bromasGold)" stroke-width="8"/>
+  <path d="M132 160H257V314H132V160Z" fill="url(#bromasGreen)" opacity="0.95"/>
+  <path d="M257 160H380V314H257V160Z" fill="url(#bromasPurple)" opacity="0.95"/>
+  <circle cx="184" cy="194" r="18" fill="#124B36" opacity="0.65"/>
+  <circle cx="330" cy="196" r="18" fill="#5A2479" opacity="0.65"/>
+  <circle cx="184" cy="254" r="18" fill="#124B36" opacity="0.65"/>
+  <circle cx="330" cy="258" r="18" fill="#5A2479" opacity="0.65"/>
+  <path d="M212 214C226 172 286 168 301 210C312 240 291 274 256 292C220 274 199 242 212 214Z" fill="#FFF8E7" stroke="#14315F" stroke-width="7"/>
+  <path d="M217 200C222 166 242 155 258 145C273 155 290 167 295 200L274 190L279 217L258 204L237 217L242 190L217 200Z" fill="#F3C53D" stroke="#9E5C00" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M229 220C236 228 245 233 256 234C267 233 276 228 283 220" stroke="#102447" stroke-width="7" stroke-linecap="round"/>
+  <path d="M233 246C248 260 264 260 279 246" stroke="#102447" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="356" cy="252" r="36" fill="#E4BE55" stroke="#8B6214" stroke-width="6"/>
+  <path d="M356 219L367 228L363 242H349L345 228L356 219Z" fill="#FFF4D7"/>
+  <path d="M345 228L333 237L337 251L349 242M367 228L379 237L375 251L363 242M349 242L345 256L356 265L367 256L363 242" stroke="#FFF4D7" stroke-width="2.5" fill="none"/>
+  <path d="M126 82C167 59 220 50 256 50C292 50 345 59 386 82" stroke="url(#bromasGold)" stroke-width="10" stroke-linecap="round"/>
+  <text x="256" y="82" text-anchor="middle" fill="#F7D98A" font-size="28" font-weight="700" font-family="Bahnschrift, Trebuchet MS, Arial, sans-serif" letter-spacing="2">FUNDADO 1998</text>
+  <path d="M106 315L406 315L387 384C343 405 305 416 256 423C207 416 169 405 125 384L106 315Z" fill="#0C1A3A" stroke="url(#bromasGold)" stroke-width="8"/>
+  <path d="M86 282C142 293 370 293 426 282L407 340C362 352 318 358 256 358C194 358 150 352 105 340L86 282Z" fill="#102447" stroke="url(#bromasGold)" stroke-width="8"/>
+  <text x="256" y="332" text-anchor="middle" fill="white" font-size="52" font-weight="800" font-family="Bahnschrift, Trebuchet MS, Arial, sans-serif">EL BROMAS F.C.</text>
+  <text x="256" y="389" text-anchor="middle" fill="#E6C15E" font-size="20" font-weight="700" font-family="Bahnschrift, Trebuchet MS, Arial, sans-serif" letter-spacing="1">DEPORTE · ALEGRIA · PASION</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ngGold" x1="74" y1="44" x2="444" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8D09A"/>
+      <stop offset="1" stop-color="#8A6B32"/>
+    </linearGradient>
+    <linearGradient id="ngBlue" x1="256" y1="102" x2="256" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C4286"/>
+      <stop offset="1" stop-color="#0F2554"/>
+    </linearGradient>
+    <linearGradient id="ngGreen" x1="118" y1="138" x2="394" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#185D41"/>
+      <stop offset="1" stop-color="#0F3D2C"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 58L309 72L400 146V372L256 456L112 372V146L203 72L256 58Z" fill="url(#ngGreen)" stroke="url(#ngGold)" stroke-width="10"/>
+  <path d="M157 112H355L389 148L350 192H162L123 148L157 112Z" fill="url(#ngBlue)" stroke="url(#ngGold)" stroke-width="8"/>
+  <text x="256" y="166" text-anchor="middle" fill="#E8D9A8" font-size="44" font-weight="700" font-family="Georgia, serif" letter-spacing="2">NO GORDAS</text>
+  <path d="M172 182H340L380 220V343L256 410L132 343V220L172 182Z" fill="url(#ngBlue)" stroke="url(#ngGold)" stroke-width="8"/>
+  <circle cx="256" cy="274" r="86" fill="#0E285D" stroke="url(#ngGold)" stroke-width="6"/>
+  <path d="M206 266C206 234 229 212 256 212C283 212 306 234 306 266C306 286 295 301 279 310V327H233V310C217 301 206 286 206 266Z" fill="#101010" stroke="#C9B17B" stroke-width="5"/>
+  <path d="M233 232L246 220M279 232L266 220" stroke="#C9B17B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M245 327V358M267 327V358" stroke="#C9B17B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M233 356L219 381M279 356L293 381" stroke="#C9B17B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M222 269C230 277 241 282 256 282C271 282 282 277 290 269" stroke="#C9B17B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M189 331C169 303 160 275 160 246M323 331C343 303 352 275 352 246" stroke="#BFA775" stroke-width="7" stroke-linecap="round"/>
+  <path d="M180 338C160 322 145 299 137 273M332 338C352 322 367 299 375 273" stroke="#BFA775" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="256" cy="365" r="34" fill="#F0E5C5" stroke="#8B6C33" stroke-width="5"/>
+  <path d="M256 340L266 348L263 360H249L246 348L256 340Z" fill="#C13A31"/>
+  <path d="M246 348L236 356L239 368L249 360M266 348L276 356L273 368L263 360M249 360L246 372L256 380L266 372L263 360" stroke="#C13A31" stroke-width="2.5" fill="none"/>
+  <path d="M194 85C214 72 236 64 256 58C276 64 298 72 318 85V104H194V85Z" fill="#A1864B" stroke="url(#ngGold)" stroke-width="6"/>
+  <circle cx="256" cy="60" r="12" fill="#D7C08D" stroke="#8A6B32" stroke-width="4"/>
+  <path d="M220 103L236 83M292 103L276 83" stroke="#8A6B32" stroke-width="5" stroke-linecap="round"/>
+  <path d="M150 386L362 386L343 431H169L150 386Z" fill="#185D41" stroke="url(#ngGold)" stroke-width="8"/>
+  <text x="256" y="421" text-anchor="middle" fill="#E8D9A8" font-size="34" font-weight="700" font-family="Georgia, serif" letter-spacing="2">CLUB FUTBOL</text>
+</svg>

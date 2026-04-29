@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Liga Compas Elite 26</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero__bg"></div>
+        <div class="hero__content">
+          <div class="league-mark">
+            <img src="./assets/logo-liga-compas-elite-26.svg" alt="Logo de la liga" class="league-mark__logo" />
+            <div>
+              <p class="eyebrow">FIFA 26 Friends Championship</p>
+              <h1>Liga Compas Elite 26</h1>
+              <p class="hero__subtitle">Tabla en vivo, jornadas, goles y standings con look de torneo profesional.</p>
+            </div>
+          </div>
+          <div class="hero__stats">
+            <article>
+              <span id="playedMatches">0</span>
+              <small>Partidos jugados</small>
+            </article>
+            <article>
+              <span id="totalGoals">0</span>
+              <small>Goles totales</small>
+            </article>
+            <article>
+              <span id="leaderName">Snupy F.C.</span>
+              <small>Lider actual</small>
+            </article>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="panel panel--standings">
+          <div class="panel__head">
+            <div>
+              <p class="eyebrow">Standings</p>
+              <h2>Tabla General</h2>
+            </div>
+            <button id="resetButton" class="ghost-button" type="button">Reiniciar marcadores</button>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Equipo</th>
+                  <th>PJ</th>
+                  <th>G</th>
+                  <th>E</th>
+                  <th>P</th>
+                  <th>GF</th>
+                  <th>GC</th>
+                  <th>DIF</th>
+                  <th>PTS</th>
+                </tr>
+              </thead>
+              <tbody id="standingsBody"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel panel--fixtures">
+          <div class="panel__head">
+            <div>
+              <p class="eyebrow">Resultados</p>
+              <h2>Centro de Control</h2>
+            </div>
+            <p class="panel__note">Calendario de ida y vuelta con jornadas organizadas. Captura los goles y la tabla se actualiza sola.</p>
+          </div>
+          <div id="fixturesList" class="fixtures-list"></div>
+        </section>
+
+        <section class="panel panel--teams">
+          <div class="panel__head">
+            <div>
+              <p class="eyebrow">Club Identity</p>
+              <h2>Equipos Inscritos</h2>
+            </div>
+          </div>
+          <div id="teamsGrid" class="teams-grid"></div>
+        </section>
+      </main>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+  </html>

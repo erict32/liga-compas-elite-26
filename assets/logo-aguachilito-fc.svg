@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tealShield" x1="256" y1="52" x2="256" y2="454" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D5F69"/>
+      <stop offset="1" stop-color="#093D44"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="256" y1="152" x2="256" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB020"/>
+      <stop offset="1" stop-color="#F1701A"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 54C317 68 370 74 426 108V284C426 373 359 426 256 456C153 426 86 373 86 284V108C142 74 195 68 256 54Z" fill="url(#tealShield)" stroke="#FF9B18" stroke-width="10"/>
+  <path d="M119 316C161 284 351 284 393 316V370C350 402 162 402 119 370V316Z" fill="#0A4C55"/>
+  <path d="M256 148C327 148 376 187 376 239C376 291 327 330 256 330C185 330 136 291 136 239C136 187 185 148 256 148Z" fill="url(#sun)"/>
+  <path d="M153 322C184 303 215 300 246 322C277 344 309 341 342 322C360 311 375 309 393 314V350C358 366 321 370 285 357C244 343 215 345 173 360C155 366 137 367 119 364V319C130 316 141 314 153 322Z" fill="#28A7B6"/>
+  <text x="256" y="122" text-anchor="middle" fill="#FFF0CA" font-size="54" font-weight="700" font-family="Georgia, serif" letter-spacing="2">AGUACHILITO</text>
+  <text x="256" y="164" text-anchor="middle" fill="#FF8A00" font-size="38" font-weight="700" font-family="Trebuchet MS, Arial, sans-serif">FC</text>
+  <path d="M238 201C286 193 328 215 338 248C344 270 333 291 309 303C291 312 271 311 251 306C261 295 265 280 262 264C258 242 238 223 217 217C223 209 229 204 238 201Z" fill="#E45A15"/>
+  <path d="M216 221C227 212 242 206 256 206C277 206 292 220 289 240C286 258 270 269 249 269C234 269 220 261 212 248C206 238 208 228 216 221Z" fill="#F06B1B"/>
+  <path d="M195 214C175 197 167 187 161 174" stroke="#E45A15" stroke-width="7" stroke-linecap="round"/>
+  <path d="M189 237C171 226 160 223 147 223" stroke="#E45A15" stroke-width="7" stroke-linecap="round"/>
+  <path d="M309 245C331 242 349 244 369 252" stroke="#E45A15" stroke-width="7" stroke-linecap="round"/>
+  <path d="M344 179L351 263" stroke="#C94A13" stroke-width="10" stroke-linecap="round"/>
+  <path d="M332 192L358 183M334 215L360 205M336 239L362 229" stroke="#C94A13" stroke-width="8" stroke-linecap="round"/>
+  <path d="M163 190L139 250" stroke="#C94A13" stroke-width="10" stroke-linecap="round"/>
+  <path d="M135 247L178 247" stroke="#C94A13" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="256" cy="363" r="45" fill="#FFF6D9" stroke="#0A2540" stroke-width="7"/>
+  <path d="M256 330L271 342L266 361H246L241 342L256 330Z" fill="#0A2540"/>
+  <path d="M241 342L225 355L231 374L246 361M271 342L287 355L281 374L266 361M246 361L240 381L256 393L272 381L266 361" stroke="#0A2540" stroke-width="3" fill="none"/>
+</svg>

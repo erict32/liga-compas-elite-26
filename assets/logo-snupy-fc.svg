@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGlow" x1="256" y1="78" x2="256" y2="421" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EC0FF"/>
+      <stop offset="1" stop-color="#2C7EF2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="188" fill="white" stroke="#071B36" stroke-width="8"/>
+  <circle cx="256" cy="218" r="126" fill="url(#blueGlow)" opacity="0.9"/>
+  <path d="M120 281C141 176 204 120 308 117C358 115 401 136 427 173" stroke="#071B36" stroke-width="8" stroke-linecap="round"/>
+  <path d="M109 224C118 224 126 216 126 206C126 197 118 189 109 189C100 189 92 197 92 206C92 216 100 224 109 224Z" fill="#071B36"/>
+  <path d="M395 193C407 193 417 183 417 171C417 159 407 149 395 149C383 149 373 159 373 171C373 183 383 193 395 193Z" stroke="#071B36" stroke-width="6"/>
+  <path d="M219 104C239 84 273 84 293 104V242H219V104Z" fill="white" stroke="#071B36" stroke-width="6"/>
+  <path d="M167 250V196L220 170V250H167Z" fill="white" stroke="#071B36" stroke-width="6"/>
+  <path d="M293 104L346 69V250H293V104Z" fill="white" stroke="#071B36" stroke-width="6"/>
+  <path d="M205 250V192H223V250M230 250V182H248V250M255 250V172H273V250" stroke="#071B36" stroke-width="6"/>
+  <path d="M258 219C275 219 289 233 289 250H227C227 233 241 219 258 219Z" fill="white" stroke="#071B36" stroke-width="6"/>
+  <text x="256" y="336" text-anchor="middle" fill="#071B36" font-size="92" font-weight="700" font-family="Trebuchet MS, Arial, sans-serif">Snupy</text>
+  <text x="256" y="386" text-anchor="middle" fill="#2C7EF2" font-size="34" font-weight="700" font-family="Trebuchet MS, Arial, sans-serif" letter-spacing="12">F.C.</text>
+  <circle cx="256" cy="424" r="40" fill="white" stroke="#071B36" stroke-width="6"/>
+  <path d="M256 396L269 406L264 422H248L243 406L256 396Z" fill="#071B36"/>
+  <path d="M243 406L229 417L235 432L248 422M269 406L283 417L277 432L264 422M248 422L243 439L256 449L269 439L264 422" stroke="#2C7EF2" stroke-width="3" fill="none"/>
+</svg>

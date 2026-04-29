@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lgGold" x1="88" y1="40" x2="424" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE29A"/>
+      <stop offset="1" stop-color="#D6941F"/>
+    </linearGradient>
+    <linearGradient id="lgBlue" x1="256" y1="46" x2="256" y2="466" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1730"/>
+      <stop offset="1" stop-color="#102955"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 42C211 80 142 93 92 126V292C92 378 158 435 256 470C354 435 420 378 420 292V126C370 93 301 80 256 42Z" fill="url(#lgBlue)" stroke="url(#lgGold)" stroke-width="12"/>
+  <path d="M256 70C216 102 161 112 121 140V285C121 355 175 407 256 439C337 407 391 355 391 285V140C351 112 296 102 256 70Z" stroke="white" stroke-width="6" opacity="0.92"/>
+  <path d="M199 124L216 92L238 118L256 82L274 118L296 92L313 124L299 122L290 143H222L213 122L199 124Z" fill="url(#lgGold)"/>
+  <text x="256" y="181" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700" font-family="Bahnschrift, Trebuchet MS, Arial, sans-serif" letter-spacing="4">LIGA</text>
+  <text x="256" y="237" text-anchor="middle" fill="#FFFFFF" font-size="62" font-weight="800" font-family="Bahnschrift, Trebuchet MS, Arial, sans-serif" letter-spacing="1">COMPAS</text>
+  <text x="256" y="283" text-anchor="middle" fill="#6CD6FF" font-size="30" font-weight="700" font-family="Bahnschrift, Trebuchet MS, Arial, sans-serif" letter-spacing="8">ELITE 26</text>
+  <path d="M146 321C182 295 220 290 256 321C292 352 331 347 367 321V374C328 395 289 400 251 390C218 381 186 382 146 396V321Z" fill="#1183FF" opacity="0.88"/>
+  <path d="M146 348C179 333 213 331 246 348C280 365 314 363 367 344" stroke="#6CD6FF" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="256" cy="364" r="52" fill="#FFF9E8" stroke="#0D1830" stroke-width="7"/>
+  <path d="M256 327L273 340L267 359H245L239 340L256 327Z" fill="#0D1830"/>
+  <path d="M239 340L222 354L229 375L245 359M273 340L290 354L283 375L267 359M245 359L239 381L256 395L273 381L267 359" stroke="#233E73" stroke-width="3" fill="none"/>
+</svg>
